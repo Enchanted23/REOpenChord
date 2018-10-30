@@ -1,4 +1,4 @@
-`REOpenChord` is part of a DFS (Distributed File System) project based on `Open Chord`.
+`REOpenChord` is part of a DFS (Distributed File System) project based on `Open Chord`. (Operating System Project)
 
 ## Open Chord
 
